@@ -9,7 +9,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.6.7",
+    "axios": "^1.7.4",
     "clsx": "^2.1.0",
     "country-flag-icons": "^1.5.7",
     "date-fns": "^3.3.1",
